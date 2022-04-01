@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I'm currently working on the coding bootcamp offered through Springboard for Full Stack Software Engineering as well as getting a PMP certification.
+🔭 I'm currently working on the coding bootcamp offered through [Springboard](https://www.springboard.com) for Full Stack Software Engineering as well as getting a PMP certification.
 
-🌱 My true talent and experience lies in Project/Product Management where I have spent the last 7+ years building projects in the casino business from nothing to successful and profitible 
+🌱 My true talent and experience lies in Project/Product Management where I have spent the last 7+ years building projects in the casino business from nothing to successful and profitible events.
 
 😄 Pronouns: He/Him
 
-📫 Feel free to reach me at: [LinkedIn](https://www.linkedin.com/in/jquatjr/) | <jquatjr@gmail.com> | 
+📫 Feel free to reach me at: [LinkedIn](https://www.linkedin.com/in/jquatjr/) | <jquatjr@gmail.com> 

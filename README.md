@@ -1,24 +1,12 @@
 
 ## Hi there 👋
 
-### My name is John Quattrocchi Jr. and I currently reside in Rochester, NY.
-<!--
-**jquatjr/jquatjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is John Quattrocchi Jr. and I currently reside in Rochester, NY.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 🔭 I'm currently working on the coding bootcamp offered through [Springboard](https://www.springboard.com) for Full Stack Software Engineering as well as getting a PMP certification.
 
-🌱 My true talent and experience lies in Project/Product Management where I have spent the last 7+ years building projects in the casino business from nothing to successful and profitible events.
+🌱 My true talent and experience lies in Project/Product Management where I have spent the last 7+ years building projects in the casino business from the ground up into very profitable events.
 
 😄 Pronouns: He/Him
 

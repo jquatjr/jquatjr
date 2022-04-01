@@ -1,5 +1,7 @@
+
 ### Hi there 👋
 
+# My name is John Quattrocchi Jr. and I currently reside in Rochester, NY.
 <!--
 **jquatjr/jquatjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

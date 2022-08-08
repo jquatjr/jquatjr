@@ -4,7 +4,7 @@
 #### My name is John Quattrocchi Jr. and I currently reside in Rochester, NY.
 
 
-🔭 I'm currently working on the coding bootcamp offered through [Springboard](https://www.springboard.com) for Full Stack Software Engineering as well as getting a PMP certification.
+🔭 I recently completed a coding bootcamp offered through [Springboard](https://www.springboard.com) for Full Stack Software Engineering as well as completing my [CSM](https://bcert.me/bc/html/show-badge.html?b=clojipcb) certification.
 
 🌱 My true talent and experience lies in Project/Product Management where I have spent the last 7+ years building projects in the casino business from the ground up into very profitable events.
 
